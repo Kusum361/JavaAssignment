@@ -15,5 +15,6 @@ public class Question10C {
         System.out.println("The distance between the two point is: " + x);
 
 
+
     }
 }
